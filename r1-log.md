@@ -8,6 +8,6 @@ The log of my #100DaysOfCode challenge. Started on [December 22, Wednesday, 2021
 Start the 100daysofcode with simple todo app using python and i m successfully made it.https://github.com/ashwinam/basicToDo-App-using-Python
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Do Some Basic problems Using Python https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4
 
 ### R1D2

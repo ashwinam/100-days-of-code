@@ -9,12 +9,12 @@
 **You can Check It out Here**: [ToDo App](https://github.com/ashwinam/basicToDo-App-using-Python)
 
 
-### Day 1: June 27, Monday
+### Day 1: December 23, 2021 Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I'Have Done a very easy programs using python(not a language specfic problems).
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Today i am not feeling to do coding because of procrastination, but i force myself to take a step and i achieve my one hour daily Goal.what You need is just a start and evrything is fall in the place "Just Like Richard Branson says Screw it, Let's Do it" 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Code Snippets](https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4)
+
