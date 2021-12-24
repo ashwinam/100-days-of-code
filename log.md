@@ -18,3 +18,19 @@
 **Link(s) to work**
 1. [Code Snippets](https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4)
 
+
+### Day 2: December 24, 2021 Friday
+
+**Today's Progress**: Today I'm started the Django(Python framework) Project(todo_django).
+#### Task Completed
+- created django project
+- initialize github repo
+- sqlite db setup 
+
+![screenshot](Screenshot.png)
+
+**Thoughts** Today i feel good for starting the project and i wanted to complete till 31st december after that need to start working on blog site 
+
+**Link(s) to work**
+[ToDO_Django](https://github.com/ashwinam/django_ToDo)
+
