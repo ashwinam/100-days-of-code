@@ -12,3 +12,6 @@ Do Some Basic problems Using Python https://gist.github.com/ashwinam/f8b3def926a
 
 ### R1D2 24/12/2021
 created a django project Todo app https://github.com/ashwinam/django_ToDo
+
+### R1D2 24/12/2021
+continue the  django project Todo app https://github.com/ashwinam/django_ToDo
