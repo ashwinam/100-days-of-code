@@ -46,3 +46,4 @@
 
 **Thoughts** Today I got stuck while creating views, because the data was not showing, the reason was that I had not set the request method post, so that's why it took me more time to resolve this issue. But if feels Good That we Are progressing before that i directly go and search the google.
 
+![screenshotday3](ezgif.com-gif-maker.gif)
