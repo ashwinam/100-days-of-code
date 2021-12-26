@@ -47,3 +47,12 @@
 **Thoughts** Today I got stuck while creating views, because the data was not showing, the reason was that I had not set the request method post, so that's why it took me more time to resolve this issue. But if feels Good That we Are progressing before that i directly go and search the google.
 
 ![screenshotday3](ezgif.com-gif-maker.gif)
+
+### Day 4: December 26, 2021 Sunday
+
+**Today's Progress**: Today just do Lu class (Sendin email to client for reset password and  blog app) and solve some loop problems.
+
+
+**Thoughts** Today is very unproducive day just do 30 minute thing But its ok all daya are not same
+
+
