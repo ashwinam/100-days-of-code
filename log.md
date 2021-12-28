@@ -55,4 +55,15 @@
 
 **Thoughts** Today is very unproducive day just do 30 minute thing But its ok all daya are not same
 
+### Day 5: December 27, 2021 monday (actually i did it in 28the december)
 
+**Today's Progress**: Today i solve fibonacci algorithm and fibonacci series upto nth number
+
+
+**Thoughts** when we go deep some problem and try to find solution on our own and keep debugging for our output it feels some next to the world.😊
+
+### Day 6: December 28, 2021 Tuesday
+
+**Today's Progress**: Today i solve some algorithmic questions (Reversing Numbers, Paliandrome)
+
+**Thoughts** when we go deep some problem and try to find solution on our own and keep debugging for our output it feels some next to the world.😊
