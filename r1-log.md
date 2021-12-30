@@ -19,9 +19,12 @@ continue the  django project Todo app https://github.com/ashwinam/django_ToDo
 ### R1D4 26/12/2021
 solve some problems https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4
 
-### R1D4 27/12/2021
+### R1D5 27/12/2021
 solve fibonacci problems https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4
 
-### R1D4 28/12/2021
+### R1D6 28/12/2021
 solve reverse number problems https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4
+
+### R1D7 30/12/2021
+solve prime number problems https://gist.github.com/ashwinam/f8b3def926a8a02b679d0cac3fe1b1d4
 

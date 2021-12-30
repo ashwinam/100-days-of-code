@@ -67,3 +67,10 @@
 **Today's Progress**: Today i solve some algorithmic questions (Reversing Numbers, Paliandrome)
 
 **Thoughts** when we go deep some problem and try to find solution on our own and keep debugging for our output it feels some next to the world.😊
+
+### Day 7: December 30, 2021 Thursday
+
+**Today's Progress**: Today i solve some algorithmic questions (Prime numbers)
+
+**Thoughts** Feeling sick thats why i m not do anything much(Excuse. excuse. excuse.) but the fact is i dont plan my day correctly.
+when we go deep some problem and try to find solution on our own and keep debugging for our output it feels some next to the world.😊
